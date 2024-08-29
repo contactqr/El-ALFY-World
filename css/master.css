@@ -1520,6 +1520,7 @@ ul {
     padding-bottom: var(--main-padding);
     background-color: var(--section-background);
     position: relative;
+    overflow-x: hidden;
 }
 
 .plan::after {
@@ -1750,7 +1751,7 @@ ul {
 
 @media (max-width: 768px) {
     .video .container .top-vid .header {
-        width: 407px;
+        width: 380px;
     }
 }
 
