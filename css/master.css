@@ -1750,7 +1750,7 @@ ul {
 
 @media (max-width: 768px) {
     .video .container .top-vid .header {
-        width: 410px;
+        width: 407px;
     }
 }
 
@@ -1827,7 +1827,7 @@ ul {
     padding-top: var(--main-padding);
     padding-bottom: var(--main-padding);
     position: relative;
-    background-image: url(/images/stats.jpg);
+    background-image: url(../images/stats.jpg);
     background-size: cover;
 
 }
@@ -1953,7 +1953,7 @@ ul {
 
 .discount .first-part {
     position: relative;
-    background-image: url(/images/discount-background1.jpg);
+    background-image: url(../images/discount-background1.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
